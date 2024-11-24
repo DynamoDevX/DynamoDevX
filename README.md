@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DynamoDevX
-- 👀 I’m interested in WebDev, GameDev, and Data science
-- 🌱 I’m currently learning WebDev, GameDev, and Data science too
+- 👀 I’m interested in WebDev, GameDev, and Data Analysis with ML
+- 🌱 I’m currently learning WebDev, GameDev, and Data Analysis with ML
 - 💞️ I’m looking to collaborate on nothing, i'm indie in everything
 - 📫 How to reach me: not now, but maybe in the future when ill have a youtube channel
 - 😄 Pronouns: He/Him
