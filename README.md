@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DynamoDevX
 - 👀 I’m interested in WebDev, GameDev, and Data Analysis with ML
-- 🌱 I’m currently learning WebDev, GameDev, and Data Analysis with ML
-- 💞️ I'm not looking to collaborate, I'm an indie.
-- 📫 How to reach me: not now, but maybe in the future when I'll have a YouTube channel
+- 🌱 I’m currently learning the same things I'm targeting ^
+- 💞️ Collaboration is really debatable
+- 📫 How to reach me: sg1b06af6@mozmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm not any special why are you visiting my github anyway?
