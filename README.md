@@ -4,4 +4,4 @@
 - 💞️ I'm not looking to collaborate, I'm an indie.
 - 📫 How to reach me: not now, but maybe in the future when I'll have a YouTube channel
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm not special, so really why are you visiting my github anyway?
+- ⚡ Fun fact: I'm not any special why are you visiting my github anyway?
