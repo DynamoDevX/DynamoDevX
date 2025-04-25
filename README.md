@@ -2,6 +2,6 @@
 - 👀 I’m interested in WebDev, GameDev, and Data Analysis with ML
 - 🌱 I’m currently learning the same things I'm targeting ^
 - 💞️ Collaboration is really debatable
-- 📫 How to reach me: sg1b06af6@mozmail.com
+- 📫 How to reach me: dinamodevx@proton.me
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm not any special why are you visiting my github anyway?
+- ⚡ Fun fact: I'm cringe most of the time so your brain damage shall be inevitable
