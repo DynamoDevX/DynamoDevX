@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DynamoDevX
-- 👀 I’m interested in WebDev, GameDev, and Data Analysis with ML
+- 👀 I’m interested in WebDev, GameDev, and Human Rights
 - 🌱 I’m currently learning the same things I'm targeting ^
-- 💞️ Collaboration is really debatable
-- 📫 How to reach me: dinamodevx@proton.me
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm cringe most of the time so your brain damage shall be inevitable
+- 💞️ Collaboration is debatable
+- 📫 How to reach me: nohow
+- 😄 Pronouns: Kill/Yourself
+- ⚡ Fun fact: *cricket sounds*
